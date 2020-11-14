@@ -4,7 +4,6 @@ import Navbar from './Navbar';
 import Banner from './Banner';
 import WisdomTalk from './WisdomTalk';
 import axios from './axios';
-import {Button} from '@material-ui/core';
 
 function App() {
   const [talks, setTalks] = useState([]);
@@ -43,4 +42,4 @@ export default App;
 
 //firebase hosted link = https://wisdom-talk-ea9a4.web.app
 
-//github link = 
+//github link = https://github.com/soumyadeepsp/ecell-wisdom_talks
